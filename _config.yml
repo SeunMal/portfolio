@@ -1,0 +1,17 @@
+remote_theme: murraco/jekyll-theme-minimal-resume
+title: Seun Malomo | Portfolio
+description: A showcase of my work experience, skills, and projects.
+theme: jekyll-theme-minimal-resume
+baseurl: "/portfolio"  # Adjust if your GitHub username changes
+url: "https://seunmal.github.io"
+
+# Navigation
+navigation:
+  - title: About
+    url: /about
+  - title: Experience
+    url: /experience
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
